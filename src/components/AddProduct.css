@@ -1,0 +1,61 @@
+.cont {
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto auto;
+    margin: 10px;
+}
+
+.pro {
+    width: 200px;
+    height: 300px;
+    border: 1px solid grey;
+}
+
+input {
+    height: 30px;
+}
+
+.menu {
+    width: 800px;
+}
+
+.btn-menu {
+    width: 100px;
+    height: 40px;
+    background-color: lightseagreen;
+    border: 1px solid gray;
+}
+
+.quantity {
+    color: red;
+    font-weight: bold;
+}
+
+.cate {
+    width: 178px;
+    height: 30px;
+    margin-left: 86px;
+}
+
+.txtSearch {
+    width: 300px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.mana-pro {
+    margin-top: 60px;
+}
+
+.next-steps {
+    margin-top: 60px;
+    margin-left: 780px;
+}
+
+.total {
+    color: red;
+    font-weight: bold;
+}
+
+.len {
+    color: red;
+}
